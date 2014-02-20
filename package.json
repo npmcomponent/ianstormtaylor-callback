@@ -1,0 +1,14 @@
+{
+  "name": "ianstormtaylor-callback",
+  "description": "Sugar for couthly calling functions back.",
+  "version": "0.0.1",
+  "keywords": [
+    "callback",
+    "function",
+    "fn"
+  ],
+  "dependencies": {
+    "timoxley-next-tick": "git://github.com/npmcomponent/timoxley-next-tick.git"
+  },
+  "license": "MIT"
+}

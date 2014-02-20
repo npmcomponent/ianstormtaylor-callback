@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ianstormtaylor/callback](http://github.com/ianstormtaylor/callback). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ianstormtaylor-callback`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # callback
 
   Sugar for couthly calling functions back, while [maintaining sanity](http://blog.izs.me/post/59142742143/designing-apis-for-asynchrony).

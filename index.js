@@ -1,5 +1,5 @@
 
-var next = require('next-tick');
+var next = require('timoxley-next-tick');
 
 
 /**
